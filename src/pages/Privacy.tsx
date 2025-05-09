@@ -81,12 +81,39 @@ const Privacy: React.FC = () => {
         Your images are processed using generative AI technology to provide analysis and responses. This processing is done in real-time and the images are not retained after the analysis is complete.
       </Text>
 
-      <SectionTitle>4. Data Security</SectionTitle>
+      <SectionTitle>4. Advertising and Google AdMob</SectionTitle>
+      <Text>
+        This app uses Google AdMob for advertising purposes. By using this app, you agree to the following regarding advertising:
+        <br /><br />
+        • Google AdMob may collect and process data according to their privacy policy
+        <br />
+        • This includes but is not limited to:
+        <br />
+        - Device information
+        <br />
+        - IP address
+        <br />
+        - Advertising identifiers
+        <br />
+        - Usage data
+        <br /><br />
+        • Google AdMob uses this information to:
+        <br />
+        - Show relevant advertisements
+        <br />
+        - Measure ad performance
+        <br />
+        - Improve ad targeting
+        <br /><br />
+        For more information about how Google uses your data, please visit Google's Privacy Policy at https://policies.google.com/privacy
+      </Text>
+
+      <SectionTitle>5. Data Security</SectionTitle>
       <Text>
         We implement appropriate security measures to protect your data during transmission and processing. However, no method of transmission over the internet or electronic storage is 100% secure.
       </Text>
 
-      <SectionTitle>5. Changes to Privacy Policy</SectionTitle>
+      <SectionTitle>6. Changes to Privacy Policy</SectionTitle>
       <Text>
         We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
       </Text>
